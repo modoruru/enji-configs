@@ -16,7 +16,7 @@ tab:
     - ""
   footer:
     - ""
-    - "tps %tps% | mspt %mspt% | ping %ping%"
+    - "tps %tps% <gray>|</gray> mspt %mspt% <gray>|</gray> ping %ping%"
     - "online %online%"
     - ""
   player_name: "%player_name%"
