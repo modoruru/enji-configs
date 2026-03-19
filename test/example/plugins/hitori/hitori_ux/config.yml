@@ -17,7 +17,6 @@ tab:
   footer:
     - ""
     - "tps %tps% | mspt %mspt% | ping %ping%"
-    - "online %online%"
     - ""
   player_name: "%player_name%"
   objective: ""
